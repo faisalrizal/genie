@@ -3,6 +3,8 @@
 [![Latest Version](https://img.shields.io/github/release/faisalrizal/genie.svg?style=flat-square)](https://github.com/esbenp/genie/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Total Downloads](https://img.shields.io/packagist/dt/faisalrizal/genie.svg?style=flat-square)](https://packagist.org/packages/optimus/genie)
+[![Build Status](https://img.shields.io/travis/faisalrizal/genie/master.svg?style=flat-square)](https://travis-ci.org/faisalrizal/genie)
+
 
 ## Introduction
 

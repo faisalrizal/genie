@@ -1,10 +1,8 @@
 # Genie
 
-[![Latest Version](https://img.shields.io/github/release/esbenp/genie.svg?style=flat-square)](https://github.com/esbenp/genie/releases)
+[![Latest Version](https://img.shields.io/github/release/faisalrizal/genie.svg?style=flat-square)](https://github.com/esbenp/genie/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build Status](https://img.shields.io/travis/esbenp/genie/master.svg?style=flat-square)](https://travis-ci.org/esbenp/genie)
-[![Coverage Status](https://img.shields.io/coveralls/esbenp/genie.svg?style=flat-square)](https://coveralls.io/github/esbenp/genie)
-[![Total Downloads](https://img.shields.io/packagist/dt/optimus/genie.svg?style=flat-square)](https://packagist.org/packages/optimus/genie)
+[![Total Downloads](https://img.shields.io/packagist/dt/faisalrizal/genie.svg?style=flat-square)](https://packagist.org/packages/optimus/genie)
 
 ## Introduction
 

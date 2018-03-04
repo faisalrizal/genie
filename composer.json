@@ -1,5 +1,5 @@
 {
-    "name": "jasahub/genie",
+    "name": "faisalrizal/genie",
     "autoload": {
         "psr-4": {
             "Jasahub\\Genie\\": "src/"
@@ -7,7 +7,7 @@
     },
     "require": {
         "illuminate/database": ">=4.0",
-        "jasahub/bruno": "~3.0"
+        "faisalrizal/bruno": "~3.0"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",

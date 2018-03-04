@@ -1,13 +1,13 @@
 {
-    "name": "optimus/genie",
+    "name": "jasahub/genie",
     "autoload": {
         "psr-4": {
-            "Optimus\\Genie\\": "src/"
+            "Jasahub\\Genie\\": "src/"
         }
     },
     "require": {
         "illuminate/database": ">=4.0",
-        "optimus/bruno": "~3.0"
+        "jasahub/bruno": "~3.0"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",

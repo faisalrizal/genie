@@ -19,7 +19,7 @@ Dedicated to the World's best (and only) Genie in a bottle. [Congrats on the fre
 
 
 ```bash
-composer require jasahub/genie
+composer require faisalrizal/genie
 ```
 
 ## Implementation
